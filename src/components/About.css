@@ -1,0 +1,14 @@
+.about{
+    height: 720px;
+    width: auto;
+    background-image:url('./home.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 720px;
+}
+
+.more__about{
+    display: flex;
+    height: 520px;
+    width: auto;
+    background-color: #F2F8FC;
+}

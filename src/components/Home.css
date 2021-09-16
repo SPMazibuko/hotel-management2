@@ -1,0 +1,20 @@
+.home{
+    height: 720px;
+    width: auto;
+    background-image:url('./home.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 720px;
+}
+
+.home__about{
+    display: flex;
+    height: 520px;
+    width: auto;
+    background-color: #F2F8FC;
+}
+
+.home__rooms{
+    height: 580px;
+    width: auto;
+    background-color: #F6F6F6;
+}
